@@ -1,1 +1,7 @@
+# Directories
+node_modules
+vendor
 .idea
+
+# Files
+.env
